@@ -1,0 +1,10 @@
+items:
+  - titre: Open Bioénergie
+    repo: https://github.com/bioenergie/open
+    topmenu:
+      - name: Accueil
+        url: /
+        id: home
+      - name: Comptabilité
+        url: /comptabilite/
+        id: comptabilite
