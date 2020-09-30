@@ -1,2 +1,7 @@
-# open
-Informations open-source sur le réseau Bioénergie
+Réseau Bioénergie 
+=====
+
+Comptabilité
+-----
+
+Des informations pour la comptabilité iront ici.
