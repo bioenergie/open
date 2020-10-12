@@ -1,0 +1,6 @@
+td, th {
+  border: 1px #777 solid;
+}
+body > nav {
+  background: blue !important;
+}

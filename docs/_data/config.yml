@@ -8,3 +8,12 @@ items:
       - name: Comptabilité
         url: /comptabilite/
         id: comptabilite
+      - name: Procédures
+        url: /procedure/
+        id: procedure
+      - name: Reddition
+        url: /reddition/
+        id: reddition
+      - name: Rétroaction
+        url: /retroaction/
+        id: retroaction
