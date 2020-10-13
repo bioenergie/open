@@ -4,3 +4,8 @@ td, th {
 body > nav {
   background: blue !important;
 }
+.my-footer {
+  background: #afdeee;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
