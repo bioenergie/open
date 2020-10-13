@@ -1,4 +1,4 @@
 Réseau Bioénergie
 =====
 
-Voir open.bioenergiehaiti.org
+Voir [https://open.bioenergiehaiti.org](https://open.bioenergiehaiti.org)
