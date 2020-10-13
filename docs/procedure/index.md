@@ -53,7 +53,7 @@ Pour assurer une compatibilité, SVP nommez vos documents:
 ### utilisez uniquement des lettres minuscules, chiffres, tirets et soulignés
 
 * Ceci est OK: `procedure-covid-19.docx`
-* Ceci à éviter: `Procédure Covid 19.docx`
+* Ceci est à éviter: `Procédure Covid 19.docx`
 
 ### incluez la date dans chaque nouvelle version, par
 
