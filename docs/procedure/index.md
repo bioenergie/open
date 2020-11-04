@@ -64,3 +64,5 @@ Sécurité
 -----
 
 Il est important d'éviter des mots de passe trop simples ou réutilisés sur plusieurs systèmes informatiques.
+
+Les employés doivent éviter d'ouvrir des attachements envoyés par courriel en cas de doute, ce qui peut causer des attaques informatiques.
