@@ -27,7 +27,7 @@ Votre directeur général ou directrice générale participera à une rencontre 
 Reddition de compte mensuelle
 -----
 
-Chaque année, votre [comptabilité](/comptabilite) ainsi que vos rapports hebdomaires seront vérifiés par vos partenaires canadiens;
+Chaque mensuelle, votre [comptabilité](/comptabilite) ainsi que vos rapports hebdomaires seront vérifiés par vos partenaires canadiens;
 
 Paiement
 -----
