@@ -60,6 +60,18 @@ Pour assurer une compatibilité, SVP nommez vos documents:
 * Ceci est OK: `procedure-covid-19-v2020-10-05.docx`
 * Ceci est à éviter si c'est une nouvelle version d'un document existant: `procedure-covid-19.docx`
 
+Format des chiffres
+-----
+
+Le format suivant est à utiliser pour les chiffres:
+
+    1234.56
+    
+Ceci est pour assurer une interopérabilité entre les équipes travaillant dans divers pays. Il faut éviter ce format:
+
+    1234,56
+    1 234,56
+
 Sécurité
 -----
 
