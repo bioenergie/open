@@ -10,3 +10,4 @@ Cette page a été mise en place pour aider [Bioénergie Haïti](https://www.bio
 * [Comptabilité](/comptabilite/)
 * [Reddition de compte](/reddition/)
 * [Rétroaction](/retroaction/)
+* [Ressources](/ressources/)
