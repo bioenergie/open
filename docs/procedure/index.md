@@ -27,7 +27,7 @@ Votre directeur général ou directrice générale participera à une rencontre 
 Reddition de compte mensuelle
 -----
 
-Chaque année, votre [comptabilité](/comptabilite) ainsi que vos rapports hebdomaires seront vérifiés par vos partenaires canadiens;
+Chaque mensuelle, votre [comptabilité](/comptabilite) ainsi que vos rapports hebdomaires seront vérifiés par vos partenaires canadiens;
 
 Paiement
 -----
@@ -53,14 +53,28 @@ Pour assurer une compatibilité, SVP nommez vos documents:
 ### utilisez uniquement des lettres minuscules, chiffres, tirets et soulignés
 
 * Ceci est OK: `procedure-covid-19.docx`
-* Ceci à éviter: `Procédure Covid 19.docx`
+* Ceci est à éviter: `Procédure Covid 19.docx`
 
 ### incluez la date dans chaque nouvelle version, par
 
 * Ceci est OK: `procedure-covid-19-v2020-10-05.docx`
 * Ceci est à éviter si c'est une nouvelle version d'un document existant: `procedure-covid-19.docx`
 
+Format des chiffres
+-----
+
+Le format suivant est à utiliser pour les chiffres:
+
+    1234.56
+    
+Ceci est pour assurer une interopérabilité entre les équipes travaillant dans divers pays. Il faut éviter ce format:
+
+    1234,56
+    1 234,56
+
 Sécurité
 -----
 
 Il est important d'éviter des mots de passe trop simples ou réutilisés sur plusieurs systèmes informatiques.
+
+Les employés doivent éviter d'ouvrir des attachements envoyés par courriel en cas de doute, ce qui peut causer des attaques informatiques.
