@@ -8,6 +8,7 @@ Cette page a été mise en place pour aider [Bioénergie Haïti](https://www.bio
 
 * [Procédure générale](/procedure/)
 * [Comptabilité](/comptabilite/)
+* [Guide de gestion de décharges sauvages](/decharges-sauvages/)
 * [Comment générer des graphiques](/graphiques/)
 * [Reddition de compte](/reddition/)
 * [Rétroaction](/retroaction/)
