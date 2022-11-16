@@ -60,13 +60,18 @@ Pour assurer une compatibilité, SVP nommez vos documents:
 * Ceci est OK: `procedure-covid-19-v2020-10-05.docx`
 * Ceci est à éviter si c'est une nouvelle version d'un document existant: `procedure-covid-19.docx`
 
+Comment mettre un document Google Docs dans un répertoire sur Google Drive
+-----
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/erJBWVyXAO8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Format des chiffres
 -----
 
 Le format suivant est à utiliser pour les chiffres:
 
     1234.56
-    
+
 Ceci est pour assurer une interopérabilité entre les équipes travaillant dans divers pays. Il faut éviter ce format:
 
     1234,56
