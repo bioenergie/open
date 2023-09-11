@@ -14,3 +14,4 @@ Cette page a été mise en place pour aider [Bioénergie Haïti](https://www.bio
 * [Rétroaction](/retroaction/)
 * [Ressources de financement](/financement/)
 * [Ressources (autre que financement)](/ressources/)
+* [Enquête, méthode Google Sheets](/enquete-google-sheets/)
