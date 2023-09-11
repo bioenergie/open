@@ -4,20 +4,44 @@ layout: standard
 id: enquete-google-sheets
 ---
 
-* [Marchés de carbone dans le monde](https://icapcarbonaction.com/en/ets-map)
+Une enquête est une série de questions posées à un groupe de personnes.
 
-### Vidéos
+Cette méthode présume que
 
-* [Nejapa Landfill, Salvador](https://www.youtube.com/watch?v=qoLbAnRYuf8)
+* Vous avez déjà fait votre enquête, sur papier ou en utilisant un outil en ligne sur votre téléphone
+* Vous allez entrer manuellement vos questions et réponses dans un chiffrier
 
-### Références
+Notons qu'il existe plusieurs outils qui peuvent faciliter ce travail, notamment [KoboToolbox et KoboCollect, pour les sondages](/ressources/kobo) qui ne sont pas traités ici.
 
-* [Collection of Municipal Solid Waste in Developing Countries, UN Habitat, 2010](/media/2010_collection-msw-developing-countries_UN-Habitat.pdf)
+Il vous revient de décider quelle est la meilleure méthode pour vos besoins.
 
-### Outils
+### Le chiffrier d'enquête de départ
 
-* [KoboToolbox et KoboCollect, pour les sondages](/ressources/kobo)
+Vous pouvez trouver le chiffrier de départ ici:
 
-### Conventions internationales
+* [Enquête chiffrier de départ Bioénergie sur Google Sheets](https://docs.google.com/spreadsheets/d/12oqgmns1VT21fGP-F18eVMkHD6bNwN412Iq3WKfXd04/edit?usp=sharing)
 
-* [Global methane pledge](https://www.globalmethanepledge.org) (mais selon le webinaire "State of NDCs" en octobre 2022, "Only 15 of the 122 signatories [...] include a specific target". "Waste to energy" est un parent pauvre mais que le nombre de pays qui en font mention a presque triplé.)
+Vous pouvez en faire une copie pour vos besoins.
+
+### L'onglet _verification (le premier onglet)
+
+Cet onglet offre des liens vers les autres onglets et faire une vérification de l'intégrité des données dans la colonne "check" où tout doît être vert (zéro).
+
+### L'onglet variables
+
+Des variables globales techniques comme le lien vers le chiffrier, et des informations sur votre enquête comme son nom et autres.
+
+### L'onglet questions-reponses
+
+Contient les questions, les choix de réponses si requis, et les réponses, et leur validation.
+
+Dans l'exemple, les réponses valides pour "Sexe" sont "M", "F", et "A".
+
+Chaque question contient deux colonnes après la question: une colonne pour la vérification (0 = c'est bon, 1 = ça ne valide pas) et une colonne pour un texte expliquant l'erreur, au besoin.
+
+### L'onglet analyse
+
+Cet onglet permet d'analyser les réponses.
+
+
+
