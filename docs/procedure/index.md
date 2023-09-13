@@ -65,6 +65,13 @@ Comment mettre un document Google Docs dans un répertoire sur Google Drive
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/erJBWVyXAO8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Comment faire une carte avec Google My Maps
+-----
+
+Si vous voulez faire une carte [comme celle-ci](https://www.google.com/maps/d/viewer?mid=1oMdLBb7k_umobINd6C0ZJ8Idx0hgUoU&ll=45.467310825367086%2C-73.5739365&z=17), vous pouvez utiliser Google My Maps. Voici comment, en vidéo:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q0ozTW-_mp8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Format des chiffres
 -----
 
