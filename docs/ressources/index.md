@@ -14,6 +14,10 @@ id: ressources
 
 * [Collection of Municipal Solid Waste in Developing Countries, UN Habitat, 2010](/media/2010_collection-msw-developing-countries_UN-Habitat.pdf)
 
+### Marché du carbone
+
+* [Integrity Council for the Voluntary Carbon Market](https://icvcm.org)
+
 ### Outils
 
 * [KoboToolbox et KoboCollect, pour les sondages](/ressources/kobo)
