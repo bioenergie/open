@@ -13,6 +13,7 @@ id: ressources
 ### Références
 
 * [Collection of Municipal Solid Waste in Developing Countries, UN Habitat, 2010](/media/2010_collection-msw-developing-countries_UN-Habitat.pdf)
+* [Beyond an age of waste, Turning rubbish into a resource, United Nations Environment Programme (UNEP), 2024](/media/global_waste_management_outlook_2024.pdf)
 
 ### Marché du carbone
 
