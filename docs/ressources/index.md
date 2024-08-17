@@ -18,6 +18,7 @@ id: ressources
 ### Marché du carbone
 
 * [Integrity Council for the Voluntary Carbon Market](https://icvcm.org)
+* [10 principes d'un bon crédit de carbon](https://icvcm.org/core-carbon-principles)
 
 ### Outils
 
