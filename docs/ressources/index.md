@@ -20,6 +20,10 @@ id: ressources
 * [Integrity Council for the Voluntary Carbon Market](https://icvcm.org)
 * [10 principes d'un bon crédit de carbon](https://icvcm.org/core-carbon-principles)
 
+### Partenaires potentiels
+
+* [Cenergy Solutions](https://www.cenergysolutions.com) pour transformer du biogaz en énergie.
+
 ### Outils
 
 * [KoboToolbox et KoboCollect, pour les sondages](/ressources/kobo)
