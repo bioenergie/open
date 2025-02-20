@@ -32,3 +32,4 @@ id: ressources
 
 * [Global methane pledge](https://www.globalmethanepledge.org) (mais selon le webinaire "State of NDCs" en octobre 2022, "Only 15 of the 122 signatories [...] include a specific target". "Waste to energy" est un parent pauvre mais que le nombre de pays qui en font mention a presque triplé.)
 * [Zero Waste in the Caribbean: New ways, new waves](https://www.unep.org/zero-waste-caribbean-new-ways-new-waves).
+* [World Wetlands Day](https://www.worldwetlandsday.org)
