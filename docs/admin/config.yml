@@ -3,7 +3,7 @@ backend:
   repo: bioenergie/open
   branch: master
   base_url: https://suresh-issue-82.dcycleproject.org
-  auth_endpoint: /auth/github/repo/6920b58f09f96ec75f9b6cef
+  auth_endpoint: /auth/github/repo/6920bc2709f96ec75f9b6e63
 media_folder: static/uploads
 public_folder: /uploads
 collections:
